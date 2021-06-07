@@ -2,5 +2,5 @@
 
 ## Contents
 
--[chap2](./chap2/index.html)
--[chap3](./chap3/index.html)
+- [chap2](./chap2/index.html)
+- [chap3](./chap3/index.html)
